@@ -1,19 +1,40 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+// .banner-principal-decorativo
+//   &-1
+//     animation: float1 3.5s ease-in-out infinite alternate
+//     position: absolute
+//     top: 40%
+//     right: 50%
+//   &-2
+//     animation: float1 2.8s ease-in-out infinite alternate
+//     position: absolute
+//     top: 51%
+//     right: 30%
 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+// @keyframes float1
+//   0%
+//     transform: translateY(20px)
 
-  100%
-    transform: translateY(0px)
+//   100%
+//     transform: translateY(0px)
+
+.text-black > *
+  color: $black !important
+
+.tema1
+  .tarjeta-c.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 28%) !important
+
+  .tarjeta.color-primario
+    background-color: lighten($color-primario, 50%) !important
+    p
+      color: $black
+
+.tabla-b
+  tr.cabecera-a
+    background-color: $color-primario
+    color: $white
+  .cabecera-b
+    background-color: lighten($color-secundario, 60%)
+.tabla-b th
+  padding: 10px

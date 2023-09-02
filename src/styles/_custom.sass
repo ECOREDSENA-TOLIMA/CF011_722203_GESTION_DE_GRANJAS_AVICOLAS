@@ -21,14 +21,18 @@
 .text-black > *
   color: $black !important
 
-.tema1
-  .tarjeta-c.color-acento-contenido
-    background-color: lighten($color-acento-contenido, 28%) !important
+.tarjeta-c.color-acento-contenido
+  background-color: lighten($color-acento-contenido, 28%) !important
 
-  .tarjeta.color-primario
-    background-color: lighten($color-primario, 50%) !important
-    p
-      color: $black
+.tarjeta.color-primario
+  background-color: lighten($color-primario, 50%) !important
+  p
+    color: $black
+
+.tarjeta.color-secundario
+  background-color: lighten($color-secundario, 60%) !important
+  p,h5,.slyder__pagination
+    color: $black
 
 .tabla-b
   tr.cabecera-a
@@ -38,3 +42,35 @@
     background-color: lighten($color-secundario, 60%)
 .tabla-b th
   padding: 10px
+
+.slyder__btn
+  background-color: $color-acento-contenido
+
+.linea-tiempo-d 
+  .tarjeta.tarjeta--gris
+    background-color: lighten($color-acento-botones, 28%)
+
+  
+.tarjeta.color-acento-botones
+  background-color: lighten($color-acento-botones, 28%) !important
+  p,h5
+    color: $black
+
+.cajones.color-primario
+  background-color: $color-primario
+
+.botones-info 
+  background-color: $color-acento-botones
+  border-radius: 2rem
+  padding: 1rem
+
+.tarjeta-c.color-secundario
+  background-color: lighten($color-secundario, 60%)
+
+.cabecera-tarjeta
+  background-color: $color-primario
+  padding: 1rem
+  h4
+    color: $white
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: lighten($color-secundario, 60%)

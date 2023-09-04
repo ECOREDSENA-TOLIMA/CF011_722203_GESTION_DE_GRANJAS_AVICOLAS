@@ -479,6 +479,200 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Encuesta
 
+    p.mb-5(data-aos="fade-down") Permite registrar situaciones que pueden ser registradas, para luego cuestionar a las personas que participaron en el hecho. Es por ello, que se considera como un método descriptivo, puesto que favorece la identificación de ideas, hábitos, preferencias, entre otros.
+
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-34.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Las limitaciones de los recursos impiden que las encuestas puedan realizarse a la totalidad de una población estudiada y debido a esto se efectúan selecciones aleatorias o controladas de las personas a encuestar, este grupo selecto recibe el nombre de muestra. Bajo esta mecánica se espera que la información recolectada a través de la muestra y las conclusiones que de allí surjan sean aplicables a la totalidad de la población objeto de estudio.
+          br
+          br
+          | Es una técnica ampliamente utilizada en la actualidad, puesto que se puede apoyar sobre las herramientas tecnológicas actuales para alcanzar a un número de encuestados mucho mayor con recursos reducidos.  Es común observar encuestas que son enviadas al correo electrónico o al celular; usualmente son lo suficientemente breves para ser diligenciadas en pocos minutos, lo que garantiza que más personas las presenten y que la información recolectada esté enfocada al objeto de estudio.
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Posibilidades y limitaciones
+
+    p.mb-5(data-aos="fade-down") Si bien es cierto que esta metodología es una de las más populares a la hora de recolectar información, también cuenta con una serie de desventajas. A continuación, se presentan las posibilidades y limitaciones asociadas a la encuesta:
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-11.mb-3(data-aos="fade-right")
+        h4 Posibilidades
+      .col-lg-11(data-aos="fade-right")
+        .row.justify-content-center.align-items-center.mb-4
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-35.svg' alt='')
+              .tarjeta.color-acento-botones
+                .p-4
+                  p.mb-0 Es más económica de aplicar que la entrevista y permite recolectar una gran cantidad de información asociada a diversos conceptos o campos.
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-36.svg' alt='')
+              .tarjeta.color-primario
+                .p-4
+                  p.mb-0 Puede crecer a grandes escalas: una muestra significativa permite evaluar tendencias u opiniones de un país entero.
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-37.svg' alt='')
+              .tarjeta.color-acento-botones
+                .p-4
+                  p.mb-0 Los encuestados suelen ser más honestos con sus respuestas al contar con el anonimato, así que es posible obtener datos más realistas respecto a opiniones o experiencias.
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-38.svg' alt='')
+              .tarjeta.color-primario
+                .p-4
+                  p.mb-0 Dado su sistema de recolección y organización de la información, facilita los análisis comparativos de una forma más marcada que otras metodologías.
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-11.mb-3(data-aos="fade-right")
+        h4 Limitaciones
+      .col-lg-11(data-aos="fade-right")
+        .row.justify-content-center.align-items-center.mb-4
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-39.svg' alt='')
+              .tarjeta.color-acento-botones
+                .p-4
+                  p.mb-0 La fuente de información es indirecta, pues la realidad se observa a través de las opiniones de los sujetos encuestados.
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-40.svg' alt='')
+              .tarjeta.color-primario
+                .p-4
+                  p.mb-0 Al realizarla por medios telefónicos o electrónicos, pueden presentarse retrasos o tomas repetidas, por lo que la veracidad y exactitud puede verse comprometida.
+          .col-md-6.col-12(data-aos="fade-down")
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img(src='@/assets/curso/temas/tema3/tema3-41.svg' alt='')
+              .tarjeta.color-acento-botones
+                .p-4
+                  p.mb-0 Pueden presentarse dudas o inquietudes que no queden resueltas, por lo que la calidad de las respuestas está sometida a la comprensión del encuestado.
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Instrumentos para la recolección de información
+
+    p(data-aos="fade-down") Los teóricos suelen apuntar a dos instrumentos a ser utilizados bajo el método de la encuesta: el cuestionario y la cédula de entrevista. 
+    p.mb-5(data-aos="fade-down") A continuación, se presenta la información más relevante respecto a cada uno de ellos:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.mb-3(data-aos="fade-right")
+        h4 Cuestionario
+      .col-md-4(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema3/tema3-42.png' alt='')
+      .col-md-8(data-aos="fade-right")
+        p Comprende un listado de preguntas efectuadas por el investigador y un espacio para respuestas que diligenciará el sujeto estudiado. Para su elaboración se recomienda una codificación que facilite la posterior consolidación de las respuestas a través de la elaboración de tablas. Esto implica también, que se favorezcan las respuestas cerradas (como la opción múltiple, el sí o no o el falso / verdadero) de tal forma que la estandarización de las respuestas permita consolidar la información. 
+        .cajon.color-secundario.p-4 
+          p Generalmente, los cuestionarios se utilizan para buscar información descriptiva y de naturaleza cuantitativa. A la hora de su elaboración, el investigador debe tener plena claridad de la problemática o situación sobre la que se espera indagar para que la elaboración de las preguntas se enfoque en trabajar desde cada una de las perspectivas en las que se planteó abordar el objeto de estudio. Así, cada variable puede ser evaluada con una o varias preguntas según el nivel de detalle que se espere. 
+          p.mb-0 Como recomendaciones para el diseño de las preguntas, los expertos suelen indicar lo siguiente:
+
+    .tarjeta.color-primario.p-4.mb-4(data-aos="fade-down")
+      PasosB.color-acento-contenido
+        .row
+          .col-12.mb-4.mb-md-0
+            p Las preguntas deben ser lo más comprensibles posibles para que no haya lugar a dudas o confusiones.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Es aconsejable que las preguntas sean concretas, evitando el uso de textos demasiado extensos que puedan diluir la concentración del encuestado.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Deben evitarse preguntas que induzcan a las respuestas, lo ideal es que el encuestado no se vea inclinado a una respuesta u otra por la forma en la que el investigador perfile la pregunta.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Las preguntas deben estar relacionadas con el objeto de estudio, es por ello, que desde un principio se debe tener claro el contexto y la forma en la que se abordará la problemática.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Las preguntas no deben respaldarse por personas o instituciones de prestigio, puesto que pueden afectar el juicio de los consultados.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Prestar especial atención cuando se toquen temas sensibles, como los políticos, religiosos o de ideologías para evitar incomodar a las personas encuestadas.
+        .row
+          .col-12.mb-4.mb-md-0
+            p El vocabulario utilizado debe estar acorde al público encuestado; un cuestionario con lenguaje técnico solo tiene sentido si está dirigido a profesionales expertos en esa área.
+        .row
+          .col-12.mb-4.mb-md-0
+            p Las preguntas deben formularse de tal manera que su respuesta no debe tomarle tanto trabajo al encuestado, deben ser sencillas y rápidas de responder.
+        .row
+          .col-12.mb-4.mb-md-0
+            p No existen mínimos ni máximos de preguntas, pero deben evitarse cuestionarios demasiado extensos para no incomodar a los encuestados.
+
+    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
+      .row.justify-content-around.align-items-center
+        .col-md-2.col-lg-2.mb-4.mb-md-0
+          img(src="@/assets/curso/temas/tema1/tema1-5.png")
+        .col-md-10.col-lg-10
+          p.mb-0 El éxito en la recolección de información de la encuesta dependerá de la calidad de las preguntas diseñadas por el investigador, y de la muestra elegida para responderlas. Por lo que es importante formular el cuestionario con preguntas bien dirigidas a la problemática y que la población a estudiar sea la más apropiada. 
+
+    .cajon-b.color-acento-contenido.p-3.mb-4(data-aos="fade-down")
+      p.mb-4 Existen dos clases de preguntas para consignar en un cuestionario, a continuación, se detalla cada uno de ellas: 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12(data-aos="fade-down")
+        .anexo.color-acento-botones.mb-4
+          .anexo__icono
+            img(src="@/assets/curso/temas/tema3/tema3-43.svg")
+          .anexo__texto
+            h4 Abiertas
+            p El encuestado tiene la facultad de extenderse en su respuesta de forma libre y espontánea, utilizando sus propios términos para abordar el cuestionamiento. La mayor ventaja de este modelo es que la información recolectada puede ser mucho más variada y profunda, sin embargo, como desventaja principal está el hecho de que la consolidación de la información, así como la identificación de tendencias o conductas comunes costarán mucho más trabajo.
+      .col-12(data-aos="fade-down")
+        .anexo.color-acento-botones
+          .anexo__icono
+            img(src="@/assets/curso/temas/tema3/tema3-44.svg")
+          .anexo__texto
+            h4 Cerradas
+            p La persona consultada solo puede responder sobre una variedad de opciones que propone el investigador; esto lleva a que la información a recibir se encuentre limitada, pero que su posterior consolidación, tabulación y análisis sea mucho más sencilla de llevar a cabo. Bajo esta clase de preguntas, es importante que las posibilidades de respuesta sean exhaustivas y excluyentes, de tal forma que, en cada pregunta, el encuestado solo encuentre una posibilidad de respuesta.
+            p Las preguntas cerradas suelen ser de dos tipos. Por un lado, están las dicotómicas, cuyas alternativas de respuestas suelen ser dos (si/no, falso/verdadero), y por otro están las de elección múltiple, cuya variedad de respuestas puede ser tan extensa como el diseñador prefiere; por ejemplo, calificar del 1 al 10 su nivel de satisfacción con el producto comprado.
+
+    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
+      .row.justify-content-around.align-items-center
+        .col-md-2.col-lg-2.mb-4.mb-md-0
+          img(src="@/assets/curso/temas/tema1/tema1-5.png")
+        .col-md-10.col-lg-10
+          p.mb-0 Un mismo cuestionario puede contener preguntas de ambas clases, se recomienda intercalar para evitar que el encuestado se agote con una sección de solo preguntas abiertas. También se recomiendan preguntas de control, que consisten en hacer dos veces la misma pregunta cambiando la terminología, para corroborar las decisiones tomadas por la persona encuestada.
+
+    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
+      .row.justify-content-around.align-items-center
+        .col-md-2.col-lg-2.mb-4.mb-md-0
+          img(src="@/assets/curso/temas/tema1/tema1-5.png")
+        .col-md-10.col-lg-10
+          p.mb-0 En cuanto a su presentación se recomienda la inclusión de una nota de presentación que explique la finalidad de la investigación, quien la organiza y la forma en la que los datos serán utilizados; también se aconseja aclarar al encuestado si contará con el anonimato, así como un instructivo para responder a las preguntas. 
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Cédula de entrevista 
+
+    .row.justify-content-around.align-items-center.mb-5(data-aos="fade-down")
+      .col-md-4.col-12.mb-4.mb-md-0
+        img(src="@/assets/curso/temas/tema3/tema3-45.png")
+      .col-md-8.col-12
+        p.mb-0 Es en esencia similar al cuestionario, pero la diferencia está en que la participación del encuestador se realiza de forma directa. Para la cédula de entrevista, las preguntas son leídas y las respuestas anotadas por el investigador, por lo que existe una interacción “cara a cara” entre encuestador y encuestado. Esta condición favorece la resolución de dudas de manera inmediata, por lo que los datos obtenidos por este sistema suelen tener menos errores producto de confusiones de interpretación.
+
+    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
+      .row.justify-content-around.align-items-center
+        .col-md-2.col-lg-2.mb-4.mb-md-0
+          img(src="@/assets/curso/temas/tema1/tema1-5.png")
+        .col-md-10.col-lg-10
+          p.mb-0 Al igual que el cuestionario, la cédula de entrevista es anónima, pero debido al contacto que se tiene con el encuestador debe buscarse que este se dé, dentro de un ambiente lleno de confianza y espontaneidad para que no haya reservas a la hora de responder.
+
+    Separador
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.5 Análisis de contenido 
+
+    .row.justify-content-around.align-items-center(data-aos="fade-down")
+      .col-md-8.col-12
+        p Esta metodología consiste en la recolección y análisis de los datos de manera simultánea; las fuentes de información suelen ser los documentos elaborados por terceros en un ámbito social específico. Es un buen complemento a la metodología de la observación, puesto que existen fenómenos no observados que se pueden interpretar a partir de la información disponible en otras fuentes.
+        p La mecánica principal consiste en recolectar datos de diferentes fuentes asociadas a la problemática a investigar, desvelando su contenido y significado, para que, a partir de ello, se sienten las bases de un nuevo conocimiento producto de la interpretación de los datos.
+        p Algunos de los usos que se le puede dar a esta metodología son los siguientes:
+      .col-md-4.col-12.mb-4.mb-md-0
+        img(src="@/assets/curso/temas/tema3/tema3-46.png")
+
 
 </template>
 

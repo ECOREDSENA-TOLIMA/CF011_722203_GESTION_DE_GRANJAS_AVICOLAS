@@ -665,13 +665,151 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Análisis de contenido 
 
-    .row.justify-content-around.align-items-center(data-aos="fade-down")
+    .row.justify-content-around.align-items-center.mb-4(data-aos="fade-down")
       .col-md-8.col-12
         p Esta metodología consiste en la recolección y análisis de los datos de manera simultánea; las fuentes de información suelen ser los documentos elaborados por terceros en un ámbito social específico. Es un buen complemento a la metodología de la observación, puesto que existen fenómenos no observados que se pueden interpretar a partir de la información disponible en otras fuentes.
         p La mecánica principal consiste en recolectar datos de diferentes fuentes asociadas a la problemática a investigar, desvelando su contenido y significado, para que, a partir de ello, se sienten las bases de un nuevo conocimiento producto de la interpretación de los datos.
         p Algunos de los usos que se le puede dar a esta metodología son los siguientes:
       .col-md-4.col-12.mb-4.mb-md-0
         img(src="@/assets/curso/temas/tema3/tema3-46.png")
+     
+     
+    .tarjeta.color-acento-botones.p-3.mb-5(data-aos="fade-down-left")
+      LineaTiempoB.color-acento-contenido.mb-2(:datos="datosLineaTiempoB")
+
+    .titulo-segundo.color-acento-contenido.mb-4(data-aos="fade-right")
+      h2 Características 
+
+    p.mb-5(data-aos="fade-down") Los teóricos del análisis de contenido suelen coincidir en que la metodología cuenta con una serie de rasgos principales. A continuación, se presenta una conceptualización de estos:  
+
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
+      .col-md-11.col-lg-10
+        PasosA.color-acento-contenido.mb-5(tipo="l")
+          div
+            h4 Objetividad
+            p Los resultados obtenidos no pueden verse sesgados por las opiniones previas del investigador, de tal forma que, si se repite el experimento posteriormente, las conclusiones deberían ser, en esencia, las mismas. Para lograrlo las reglas y parámetros de medición deben ser explícitos y claros, de tal forma que no haya lugar a confusiones a la hora de replicar la investigación.
+          div.text-start
+            h4 Sistematicidad
+            p Esta característica implica que los procedimientos para la selección de contenidos, y sus análisis consecuentes cumplen unas reglas establecidas y una secuencia normalizada. Todo el proceso debe ser sistemático, siguiendo siempre los mismos pasos y parámetros de codificación para replicar tanto las pruebas como los criterios de evaluación.
+          div
+            h4 Cuantitativo
+            p Debido a su naturaleza, se considera una metodología de naturaleza mayoritariamente cuantitativa. Lo anterior se sustenta en que el análisis de contenido compila información de diversas fuentes y busca identificar patrones o expresar por medio de indicadores la serie de mensajes estudiada.
+          div.text-start
+            h4 Inferencial
+            p El resultado final del análisis de contenido es la generación de información. Se considera inferencial, porque a partir de las interpretaciones estudiadas, y su posible replicación, se pueden alcanzar conclusiones adicionales.
+
+    .titulo-segundo.color-acento-contenido.mb-4(data-aos="fade-right")
+      h2 Tipos de análisis
+
+    p.mb-5(data-aos="fade-down") Los análisis pueden clasificarse en función diferentes criterios, #[em Emanuelli et al]. (2012), presenta en su obra, varios de ellos tal y como se presenta en la figura 5, que se expone a continuación:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-10(data-aos="fade-right")
+        .titulo-sexto.color-primario
+          p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Tipos de análisis de contenido.] 
+        figure
+          img(src='@/assets/curso/temas/tema3/tema3-52.svg', alt='En la figura 5. Se muestra los tipos de análisis de contenido según objetivos, fuentes de material, diseño y parámetros de medición.')  
+          figcaption.mt-2 Nota. Adaptada de #[em Emanuelli et al]. (2012).  
+
+    .cajon-b.color-acento-contenido.p-3.mb-4(data-aos="fade-down")
+      p.mb-4 A continuación, se explican cada uno de los tipos de análisis de contenido mencionados anteriormente. 
+
+    .titulo-segundo.color-acento-botones.mb-4(data-aos="fade-right")
+      h2 Según los objetivos de la investigación
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-4.col-12(data-aos="fade-right")
+        img(src="@/assets/curso/temas/tema3/tema3-53.png")
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido--borde.p-3.my-2(data-aos="fade-down")
+          h4 1. Exploratorio
+          p.mb-0.texto-negro Usualmente se desarrollan, esperando probar por primera vez un material de estudio en concreto. Suelen hacer parte de proyectos en formación, por lo que pueden aportar para definir indicadores de medida o delimitación de la muestra.
+        .tarjeta.color-primario--borde.p-3.my-2(data-aos="fade-down")
+          h4 2. Descriptivos
+          p.mb-0.texto-negro Buscan establecer la realidad empírica de los documentos. A través de la descripción de estos se busca determinar y justificar cuáles son las modificaciones más apropiadas.
+        .tarjeta.color-acento-botones--borde.p-3.my-2(data-aos="fade-down")
+          h4 3. Verificativos
+          p.mb-0.texto-negro Con ellos se buscan corroborar si las afirmaciones planteadas en las investigaciones son contradictorias. Para ello, se indaga desde el origen hasta la naturaleza del contenido de los documentos.
+
+    .titulo-segundo.color-acento-botones.mb-4(data-aos="fade-right")
+      h2 Según las fuentes del material de análisis
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido--borde.p-3.my-2(data-aos="fade-down")
+          h4 1. Primarias
+          p.mb-0.texto-negro Cuando el análisis fue trabajado a partir de un material original, creado de manera directa por el autor.
+        .tarjeta.color-primario--borde.p-3.my-2(data-aos="fade-down")
+          h4 2. Secundarias
+          p.mb-0.texto-negro En este caso,  la información fuente, son textos derivados de obras originales como traducciones, revisiones o resúmenes.
+      .col-md-4.col-12(data-aos="fade-left")
+        img(src="@/assets/curso/temas/tema3/tema3-54.png")
+
+    .titulo-segundo.color-acento-botones.mb-4(data-aos="fade-right")
+      h2 Según el diseño de análisis
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-4.col-12(data-aos="fade-right")
+        img(src="@/assets/curso/temas/tema3/tema3-55.png")
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido--borde.p-3.my-2(data-aos="fade-down")
+          h4 1. Horizontales 
+          p.mb-0.texto-negro La información que se estudiará proviene de diversos autores y obras. La población puede ser tan significativa que requiere la toma de muestras para cuestionar movimientos o ideologías de amplio espectro.
+        .tarjeta.color-primario--borde.p-3.my-2(data-aos="fade-down")
+          h4 2. Verticales
+          p.mb-0.texto-negro El elemento objeto de estudio suele ser muy concreto, por ello también reciben el nombre de análisis intensivos; El tema puede ser tan específico, que el análisis detrás puede ser mucho más extenso que el material fuente original.
+        .tarjeta.color-acento-botones--borde.p-3.my-2(data-aos="fade-down")
+          h4 3. Transversales
+          p.mb-0.texto-negro La mecánica de este análisis consiste en enfrentar posturas diferentes respecto a un mismo tema en concreto. Lo que se busca es definir si las variaciones surgen de posturas diferentes y cómo estas afectan las conclusiones alcanzadas.
+        .tarjeta.color-secundario--borde.p-3.my-2(data-aos="fade-down")
+          h4 4. Longitudinales
+          p.mb-0.texto-negro Estudian documentos en diferentes momentos de su historia. Con ello se busca medir la evolución que han tenido en el tiempo; es aplicable a documentos de emisión continua como revistas o periódicos.
+
+    .titulo-segundo.color-acento-botones.mb-4(data-aos="fade-right")
+      h2 Según parámetros de medición
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido--borde.p-3.my-2(data-aos="fade-down")
+          h4 1. Cuantitativos
+          p.mb-0.texto-negro Las variables a estudiar pueden medirse haciendo uso de escalas de cantidades. La tabulación de las diversas posturas o el cálculo de medidas estadísticas suelen ser propias de este tipo de análisis.
+        .tarjeta.color-primario--borde.p-3.my-2(data-aos="fade-down")
+          h4 2. Cualitativos
+          p.mb-0.texto-negro Tienen un componente descriptivo fuertemente marcado. Se centran en el estudio de conductas, posturas o características no medibles, buscando constatar su consistencia.
+      .col-md-4.col-12(data-aos="fade-left")
+        img(src="@/assets/curso/temas/tema3/tema3-56.png")
+
+
+    .titulo-segundo.color-acento-contenido.mb-4(data-aos="fade-right")
+      h2 Etapas 
+
+    p.mb-5(data-aos="fade-down") La ejecución de un análisis de contenidos puede segmentarse en las tres siguientes fases: 
+
+    .tarjeta.color-secundario.mb-5(data-aos="fade-down-left")
+      .row.justify-content-center.align-items-center
+        .col-md-8.p-3.px-5
+          h4 Organización
+          p Como en cualquier otro proyecto esta etapa se centra en definir los objetivos, la problemática y los procedimientos que se utilizarán para la recolección y posterior análisis de la información. Se enfatiza en la necesidad de detallar todas las actividades, para que el ejercicio pueda ser replicado posteriormente para medir su precisión.  
+          p.mb-0 También es importante hacer mención a la muestra, es decir, los documentos sobre los cuales se realizará el estudio, así como los datos que se esperan extraer y analizar de ellos. 
+        .col-md-4.pe-4
+          img(src="@/assets/curso/temas/tema3/tema3-57.png")
+
+    .tarjeta.color-acento-contenido.mb-5(data-aos="fade-down-right")
+      .row.justify-content-center.align-items-center
+        .col-md-8.p-3.px-5
+          h4.texto-negro Explotación de material
+          p.texto-negro Consiste en la revisión de la información contenida en los documentos elegidos en la muestra. Una vez se definen los elementos objeto de estudio, se debe realizar el análisis de forma paralela, con un registro en el que se trasladan todos los datos, de aquellas variables que son representativas para el estudio. 
+          p.mb-0.texto-negro En esta fase, también se diseña la hoja de instrucciones, en la que se describe la metodología aplicable a la investigación concreta. Esto también implica aspectos como definir las escalas de medición, los criterios para definir temas clave, o un vocabulario con los términos indispensables para comprender el análisis. 
+        .col-md-4.pe-4
+          img(src="@/assets/curso/temas/tema3/tema3-58.png")
+
+    .tarjeta.color-secundario.mb-5(data-aos="fade-down-left")
+      .row.justify-content-center.align-items-center
+        .col-md-8.p-3.px-5
+          h4 Tratamiento estadístico de la información 
+          p.mb-0 En esta fase se busca validar los datos obtenidos y la interpretación efectuada a estos. Se deben especificar las pruebas con sus escalas y criterios de medición, de forma explícita para permitir la replicación de la investigación a futuro. 
+        .col-md-4.pe-4
+          img(src="@/assets/curso/temas/tema3/tema3-59.png")
 
 
 </template>
@@ -681,6 +819,38 @@ export default {
   name: 'Tema3',
   data: () => ({
     // variables de vue
+    datosLineaTiempoB: [
+      {
+        titulo: '1. Continuidad a estudios desarrollados',
+        texto:
+          'Dar continuidad a estudios desarrollados por otros, dado que se alimenta de ellos para tener un punto de partida más avanzado en cuanto contenido.',
+        icono: require('@/assets/curso/temas/tema3/tema3-47.svg'),
+      },
+      {
+        titulo: '2. Diferencias entre estudios',
+        texto:
+          'Determinar diferencias entre estudios similares, desarrollados en regiones y culturas diferentes.',
+        icono: require('@/assets/curso/temas/tema3/tema3-48.svg'),
+      },
+      {
+        titulo: '3. Validez de estudios previos',
+        texto:
+          'Evaluar la validez de estudios previos a través de la comprobación de los resultados o la comparabilidad con otros similares.',
+        icono: require('@/assets/curso/temas/tema3/tema3-49.svg'),
+      },
+      {
+        titulo: '4. Información legal',
+        texto:
+          'Obtener información legal, normativa o política, respecto a una región en concreto a partir del compendio de documentos oficiales disponibles.',
+        icono: require('@/assets/curso/temas/tema3/tema3-50.svg'),
+      },
+      {
+        titulo: '5. Pautas culturales',
+        texto:
+          'Reflejar las pautas culturales de grupos de población determinadas.',
+        icono: require('@/assets/curso/temas/tema3/tema3-51.svg'),
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {

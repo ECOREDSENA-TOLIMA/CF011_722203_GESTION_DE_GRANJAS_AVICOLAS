@@ -155,7 +155,7 @@
           p Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
           p En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución.
           p La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley.
-          p.mb-0 Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley”. Constitución Política de Colombia [Const]. Art. 15. 7 de julio de 1991 (Colombia).
+          p.mb-0 Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley. Constitución Política de Colombia [Const]. Art. 15. 7 de julio de 1991 (Colombia).
 
     .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
       .row.justify-content-around.align-items-center
@@ -174,13 +174,13 @@
     p.mb-5(data-aos="fade-down") Se recomienda profundizar en este tema consultando las siguientes leyes y decreto que se encuentran en el material complementario:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-12.col-md-4
+      .col-12.col-md-4.mb-2
         .botones-info 
           h4.text-center.mb-0 Ley 1266 de 2008
-      .col-12.col-md-4
+      .col-12.col-md-4.mb-2
         .botones-info 
           h4.text-center.mb-0 Ley 1581 de 2012
-      .col-12.col-md-4
+      .col-12.col-md-4.mb-2
         .botones-info 
           h4.text-center.mb-0 Decreto 1377 de 2013
 

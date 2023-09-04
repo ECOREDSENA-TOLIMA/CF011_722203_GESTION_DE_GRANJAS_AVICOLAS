@@ -328,6 +328,157 @@
           p.mb-0 La elaboración del cuadro anterior permite analizar la información desde una nueva perspectiva y alcanzar nuevas conclusiones. Por ejemplo, que el modelo 3 tiene mayor aceptación a nivel comercial, que el color más común es el blanco o que la combinación más popular es el modelo 1 de color negro, entre otros. 
 
 
+    Separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.3 Entrevista
+
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
+      .col-md-5
+        img(src="@/assets/curso/temas/tema3/tema3-28.png")
+      .col-md-7
+        p Es una herramienta especialmente útil para recolectar información cualitativa, dada la proximidad entre el investigador y el entrevistado. Su principal fortaleza radica en la posibilidad de obtener información de aspectos subjetivos de las personas entrevistadas, ya que no se encuentra enfocada en la cantidad de opiniones conseguidas, sino en la justificación que hay tras ellas.
+        p Se distancia de la observación en el sentido que esta describe los hechos de una forma impersonal, describiendo los hechos que suceden en el momento, la entrevista por su parte puede ahondar sobre sucesos pasados o actuales, profundizando en motivaciones, sentimientos o demás factores internos que no podrían ser percibidos a través de la observación.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .col-md-11.col-lg-10.cajon.color-primario
+        .p-3 
+          p.mb-0 También es diferente a la encuesta, puesto que, en esta se busca la consecución de información cuantitativa, a través de listar preguntas estandarizadas a un grupo significativo de encuestados. La entrevista apunta a poblaciones más pequeñas, con preguntas usualmente abiertas que aporten información cualitativa.
+    
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Clasificación
+
+    p.mb-5(data-aos="fade-down") La entrevista involucra a la fórmula de recolección de información a la interacción social, dado que se desarrolla como un diálogo entre el entrevistador y el entrevistado. La clasificación más popular toma como criterio la forma en la que se desarrolla esta “conversación” y las presenta en 3 categorías, así:
+
+    .row.justify-content-center.align-items-center.mb-4.con-borde
+      .col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/1.png' alt='')
+          .tarjeta.color-primario--borde
+            .p-4
+              h4 Estructurada
+              p.mb-0 Aquellas entrevistas que tienen un listado de preguntas establecido e inmodificable. Sirven especialmente en aquellos casos donde se consultan varias personas y se busca comparar las respuestas, por lo que las preguntas idénticas evitan al máximo que se generen diferentes criterios a causa de los cambios en el instrumento de recolección de datos utilizado.
+      .col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/2.png' alt='')
+          .tarjeta.color-primario--borde
+            .p-4
+              h4 Semiestructuradas
+              p.mb-0 Cuentan con un guion inicial que funciona como una especie guía, en donde se plantean una serie de preguntas abiertas que funcionarán como punto de referencia. En este se menciona los temas que se deben cubrir en la entrevista, pero el entrevistador podrá flexibilizarlo conforme se desarrolle la conversación, cambiando el orden de las preguntas o adicionando nuevas para obtener la mayor cantidad de información útil.
+      .col-12(data-aos="fade-down")
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/3.png' alt='')
+          .tarjeta.color-primario--borde
+            .p-4
+              h4 No estructuradas
+              p.mb-0 En este caso no existe ninguna guía o cuestionario inicial, por lo que el entrevistador contará con total libertad para indagar y obtener información.
+
+    .cajon-b.color-acento-contenido.p-3.mb-4(data-aos="fade-down")
+      p.mb-4 Frente a lo anterior, pueden presentarse por lo menos dos tipos de entrevistas no estructuradas:
+
+    .tarjeta.color-secundario.mb-5(data-aos="fade-down-left")
+      .row 
+        .col-md-4
+          img(src="@/assets/curso/temas/tema3/tema3-29.png")
+        .col-md-8.p-3.px-5
+          h4 Focalizadas
+          p.mb-0 Busca obtener información acerca de un tema en específico, se esperan respuestas espontáneas y abiertas al respecto por parte del entrevistado, mientras que el entrevistador deberá ir dirigiendo la conversación a aquellos aspectos en concreto de donde espera socavar más datos. 
+
+    .tarjeta.color-secundario.mb-5(data-aos="fade-down-left")
+      .row 
+        .col-md-8.p-3.px-5
+          h4 No dirigida o en profundidad
+          p.mb-0 A este grupo pertenecen las entrevistas observadas en medios a personas de la farándula. Son entrevistas donde no se especifica un tema en concreto, lo que se busca es obtener información variada respecto a la persona entrevistada. Demandan un clima de confianza para obtener respuestas más honestas, y para que el entrevistador pueda ir dirigiendo la conversación a aquellos elementos que considere más relevantes.
+        .col-md-4
+          img(src="@/assets/curso/temas/tema3/tema3-30.png")
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Posibilidades y limitaciones
+
+    p.mb-5(data-aos="fade-down") Como todas las demás metodologías de recolección de información, la entrevista está sujeta a posibilidades y limitaciones para su aplicación. Aquellas de mayor relevancia se presentan a continuación:
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-11(data-aos="fade-right")
+        h4 Posibilidades
+        p.mb-0 Al estar dirigida a la obtención de información cualitativa, la profundidad de esta es mucho mayor. El estilo abierto de las preguntas abre la posibilidad para enriquecer la recolección de información al complementar las respuestas con las expresiones no verbales o la emotividad que las acompañe.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido.p-3.my-2(data-aos="fade-down")
+          p.mb-0.texto-negro Tiene una dinámica marcada dado que se le otorga al entrevistador la posibilidad de interactuar con el entrevistado para hacer los cambios necesarios que dirijan la entrevista a los ámbitos más relevantes para la investigación, generando la confianza suficiente para obtener respuestas más profundas y sinceras.
+        .tarjeta.color-acento-contenido.p-3.my-2(data-aos="fade-down")
+          p.mb-0.texto-negro El hecho de que las preguntas sean abiertas posibilita la obtención de información inesperada, que pueda incluso replantear la investigación; también es factible que en el transcurso de la entrevista pueda surgir la necesidad de aplicar otros sistemas para complementar la recolección de datos.
+        .tarjeta.color-acento-contenido.p-3.my-2(data-aos="fade-down")
+          p.mb-0.texto-negro La comprensión de la información obtenida es mayor puesto que el entrevistador tiene la facultad de profundizar en aquellas preguntas que no satisfagan su criterio.
+      .col-md-3.col-12
+        img(src="@/assets/curso/temas/tema3/tema3-31.png")
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-11(data-aos="fade-right")
+        h4 Limitaciones
+        p.mb-0 La principal limitante de la entrevista es el tiempo; dado que la recolección de la información demanda la presencia permanente del entrevistador, no es posible que se efectúen varias de ellas de manera simultánea. Esto hace que la cantidad de personas entrevistadas sea significativamente menor en relación con otras metodologías.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-3.col-12
+        img(src="@/assets/curso/temas/tema3/tema3-32.png")
+      .col-md-8.col-12
+        .tarjeta.color-acento-contenido.p-3.my-2(data-aos="fade-down")
+          p.mb-0.texto-negro La entrevista puede verse afectado por sesgos inherentes tanto del entrevistador como del entrevistado. El entrevistador puede influir en las respuestas de diversas maneras, como mediante preguntas sugestivas, gestos o expresiones faciales involuntarias que pueden guiar o influir en las respuestas del entrevistado.
+        .tarjeta.color-acento-contenido.p-3.my-2(data-aos="fade-down")
+          p.mb-0.texto-negro La entrevista, al ser una técnica de recolección de información que involucra interacciones cara a cara o remotas, puede tener dificultades para alcanzar una muestra completamente representativa de la población de interés. La accesibilidad de ciertos grupos o individuos puede estar restringida debido a factores como la ubicación geográfica, el idioma, la cultura, la disponibilidad de tiempo o la disposición a participar en una entrevista.
+
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 Pasos para su aplicación
+
+    p.mb-5(data-aos="fade-down") Para llevar a cabo una entrevista de manera efectiva, es recomendable seguir un esquema de pasos que garanticen que el direccionamiento sea el adecuado en función de la información que se espera obtener. Las siguientes actividades deben tenerse presentes para que la entrevista cumpla su función: 
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
+      .col-md-4.col-12
+        img(src="@/assets/curso/temas/tema3/tema3-33.png")
+      .col-md-8.col-12
+        LineaTiempoD.color-acento-botones
+          .row(numero="1" titulo="Definir la problemática que se espera estudiar")
+            .col-12.mb-md-0.pt-md-3
+              p En esta y todas las demás metodologías, se debe partir por la formulación del problema que se piensa abordar; con ello se define el para qué de la implementación de la metodología. Se debe presentar de forma precisa, y si aplica, definiendo el horizonte de espacio y de tiempo.
+          .row(numero="2" titulo="Identificar la población que será entrevistada")
+            .col-12.mb-md-0.pt-md-3
+              p A partir de una variedad de criterios, debe limitarse la población objetivo, ya sea delimitando una zona geográfica o aplicando filtros asociados con la edad, género, profesión, entre otros. En esta fase también se define el tamaño de la muestra, por lo que según la profundidad de la problemática y la calidad de la información que se espere recibir, podrían requerirse más o menos personas para entrevistar.
+          .row(numero="3" titulo="Planificación de la entrevista")
+            .col-12.mb-md-0.pt-md-3
+              p La selección de las preguntas a hacer, el trazado de la ruta que se espera seguir e incluso la elección del entrevistador, son aspectos para evaluar en esta etapa de la investigación.
+          .row(numero="4" titulo="Obtención y análisis de la información")
+            .col-12.mb-md-0.pt-md-3
+              p Debido a la naturaleza abierta de las preguntas y de la información obtenida a través de esta metodología, no se pueden estandarizar las herramientas de recolección de datos. Uno de los instrumentos que toma especial relevancia para efectuar el registro de la información son las cámaras o grabadoras de audio, sin embargo, su uso requiere del consentimiento del entrevistado, por lo que siempre debe solicitarse la autorización previo al inicio de la entrevista.
+
+    .cajon-b.color-acento-contenido.p-3.mb-4(data-aos="fade-down")
+      p.mb-4 Adicionalmente, una entrevista puede dividirse en tres momentos fundamentales explicados a continuación: 
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
+      .col-12.col-md-11.col-lg-10.tarjeta.color-secundario
+        PasosA.color-acento-contenido(tipo="l" data-aos="fade-down-left")
+          div
+            h4 Comienzo
+            p En esta fase se busca la creación de la confianza entre el entrevistador y el entrevistado. Es importante que en este momento se efectúen preguntas que lleven a respuestas generales sin profundizar en ningún tema en específico, puesto que lo que se busca en un principio es crear un contexto amplio y un ambiente de tranquilidad.
+          div.text-start
+            h4 Desarrollo
+            p Se debe brindar al entrevistado la posibilidad de responder tomando el tiempo que considere necesario para que no se sienta presionado o que están a prueba sus conocimientos. El entrevistador debe evitar emitir juicios conforme escuche las respuestas de su contraparte, dado que su papel principal es escuchar la opinión del otro. Cuando sea necesario, es pertinente repetir preguntas con diferente vocabulario para corroborar la posición del entrevistado, con ello se reduce el margen de error a la hora de efectuar los análisis.
+          div
+            h4 Cierre
+            p Al finalizar la entrevista se debe revisar si se abarcaron todos los temas que se habían planteado para proseguir con el agradecimiento al entrevistado. Para este momento, es importante buscar mantener el ambiente de confianza que se ha tratado de transmitir durante toda la entrevista, ya que es posible que en medio de la espontaneidad surja algún comentario que aporte más información de utilidad.
+
+    .tarjeta.color-primario.p-4.mb-5(data-aos="fade-down-left")
+      .row.justify-content-around.align-items-center
+        .col-md-2.col-lg-2.mb-4.mb-md-0
+          img(src="@/assets/curso/temas/tema1/tema1-5.png")
+        .col-md-10.col-lg-10
+          p.mb-0 En cuanto, al análisis de la información, es importante apoyarse en el criterio del investigador, puesto que las respuestas pueden ser tan complejas que se prestan para diferentes interpretaciones. En este aspecto lo más recomendable es listar las conclusiones más relevantes a partir del análisis exhaustivo de la conversación y otros elementos más allá de las respuestas, como el lenguaje no verbal o la predisposición para abordar algunos temas por parte del entrevistado. 
+
+    Separador
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.4 Encuesta
+
 
 </template>
 

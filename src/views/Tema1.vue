@@ -112,7 +112,7 @@
       .row 
         .col-md-8.p-3.px-5
           p.text-small La estructura de los datos es la forma en la que estos se disponen y presentan, de tal manera, que faciliten los análisis y la identificación de patrones, con esto se busca que el estudio de la información recolectada sea más eficiente.
-          p.text-small.mb-0 Usualmente , la información cuantitativa puede estructurarse de forma más sencilla, por ejemplo, si se busca identificar la gestión comercial o de producción de una empresa, esto puede medirse en función de las unidades producidas o vendidas o los valores de venta o de costo de producción. Esta puede categorizarse como numérica o gráfica; la primera compuesta por cifras, mientras que la segunda, consta de diagramas o ilustraciones.
+          p.text-small.mb-0 Usualmente, la información cuantitativa puede estructurarse de forma más sencilla, por ejemplo, si se busca identificar la gestión comercial o de producción de una empresa, esto puede medirse en función de las unidades producidas o vendidas o los valores de venta o de costo de producción. Esta puede categorizarse como numérica o gráfica; la primera compuesta por cifras, mientras que la segunda, consta de diagramas o ilustraciones.
         .col-md-4
           img(src="@/assets/curso/temas/tema1/tema1-7.png")
 

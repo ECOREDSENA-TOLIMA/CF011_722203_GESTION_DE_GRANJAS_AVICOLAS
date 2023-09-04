@@ -33,7 +33,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10.col-lg-8(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Ciclo de vida de la información.] 
+          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Ciclo de vida de la información] 
         figure
           img(src='@/assets/curso/temas/tema2/tema2-6.svg', alt='En la figura 2, se muestra el ciclo de vida de la información, se puede dividir en cuatro etapas claves, creación, transmisión, gestión y análisis.')  
           figcaption.mt-2 Nota. Adaptado de Pérez (2020).
@@ -208,7 +208,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10.col-lg-8(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Fuentes de información.] 
+          p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Fuentes de información] 
         figure
           img(src='@/assets/curso/temas/tema2/tema2-21.png', alt='En la figura 3.  Se muestra el diagrama que destaca las fuentes de información primaria y secundaria utilizadas en la recopilación de datos.')  
 

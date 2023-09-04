@@ -124,7 +124,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Modalidades de observación.] 
+          p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Modalidades de observación] 
         figure
           img(src='@/assets/curso/temas/tema3/tema3-14.svg', alt='En la figura 4. Se muestra un diagrama con diversas formas de observación utilizadas en la investigación y estudio de fenómenos.')  
           figcaption.mt-2 Nota. Adaptada de Emanuelli et al. (2012).
@@ -277,7 +277,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-11.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Tabla 2.] #[i Formato cuadro de trabajo.] 
+          p.titulo.pb-0.mb-0 #[b Tabla 2.] #[i Formato cuadro de trabajo] 
       .col-12.col-md-11.col-lg-10(data-aos="fade-right")
         .tabla-b.color-acento-contenido.mb-5
           table
@@ -706,7 +706,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Tipos de análisis de contenido.] 
+          p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Tipos de análisis de contenido] 
         figure
           img(src='@/assets/curso/temas/tema3/tema3-52.svg', alt='En la figura 5. Se muestra los tipos de análisis de contenido según objetivos, fuentes de material, diseño y parámetros de medición.')  
           figcaption.mt-2 Nota. Adaptada de #[em Emanuelli et al]. (2012).  

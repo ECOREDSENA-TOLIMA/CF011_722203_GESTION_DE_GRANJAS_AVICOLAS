@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Clasificación de datos.] 
+          p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Clasificación de datos] 
         figure
           img(src='@/assets/curso/temas/tema1/tema1-2.svg', alt='En la figura 1 se muestra por medio de un diagrama la clasificación de los datos, según su naturaleza, su procesamiento y su fuente.')  
           figcaption.mt-2 Nota. Adaptada de CEPAL (2020).
@@ -129,7 +129,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12(data-aos="fade-right")
         .titulo-sexto.color-primario
-          p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Ejemplo de tabla de datos.] 
+          p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Ejemplo de tabla de datos] 
       .col-12(data-aos="fade-right")
         .tabla-b.color-acento-contenido.mb-5
           table.text-small

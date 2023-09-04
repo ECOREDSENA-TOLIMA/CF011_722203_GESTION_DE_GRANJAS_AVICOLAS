@@ -364,7 +364,7 @@ export default {
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'María Inés Machado López',
+          nombre: 'Viviana Herrera Quiñonez',
           cargo: 'Metodóloga',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },

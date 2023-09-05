@@ -106,7 +106,7 @@
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Clasificación
+      h2 1.2 Estructura
 
     .tarjeta.tarjeta--azul.mb-5(data-aos="fade-down-left")
       .row 

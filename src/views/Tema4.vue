@@ -141,7 +141,7 @@
       .py-4.py-md-5(titulo="<em>Software</em> libre")
         .row
           .col-12.mb-4.mb-md-0
-            p.mb-0 El programa puede usarse para cualquier propósito, ya que se tiene acceso a su funcionamiento y se le pueden hacer las modificaciones que el usuario desee para adaptarlo a sus necesidades. De esta misma forma se puede distribuir al público sin ninguna limitación. Este tipo de programas terminan siendo desarrollos comunitarios, donde todos los autores pueden aportar en cierto campo, para hacerlo más completo. Uno de los más populares, para labores de ofimática y gestión de datos es “Apache OpenOffice”, el cual funciona como una #[em suite], que incluye procesador de texto, hoja de cálculo, gestor de bases de datos y gráficos dinámicos.
+            p.mb-0 El programa puede usarse para cualquier propósito, ya que se tiene acceso a su funcionamiento y se le pueden hacer las modificaciones que el usuario desee para adaptarlo a sus necesidades. De esta misma forma se puede distribuir al público sin ninguna limitación. Este tipo de programas terminan siendo desarrollos comunitarios, donde todos los autores pueden aportar en cierto campo, para hacerlo más completo. Uno de los más populares, para labores de ofimática y gestión de datos es “Apache #[em OpenOffice]”, el cual funciona como una #[em suite], que incluye procesador de texto, hoja de cálculo, gestor de bases de datos y gráficos dinámicos.
       .py-4.py-md-5(titulo="<em>Software</em> semilibre")
         .row
           .col-12.mb-4.mb-md-0

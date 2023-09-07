@@ -234,13 +234,13 @@
       .tarjeta.tarjeta--azul.p-4(titulo="El diario")
         .row
           .col-md-8.col-12
-            h4 El diario
+            //- h4 El diario
             p En este se inscriben paso a paso todos los hechos observados desde el inicio del proyecto. Pueden anotarse todo tipo de comentarios, sugerencias o notas de aspectos teóricos o prácticos. Con este se busca llevar un registro tan detallado como se quiera de la evolución del hecho estudiado, así que se puede diligenciar después de una tarea, de una situación relevante o al final de la jornada de trabajo.
             p Se recomienda una escritura clara, precisa y ordenada de acuerdo con lo observado, su extensión variará según la complejidad del objeto de estudio o de la preferencia del investigador.
           .col-md-4.col-12
             img(src='@/assets/curso/temas/tema3/tema3-23.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Cuaderno de notas")
-        h4 Cuaderno de notas
+        //- h4 Cuaderno de notas
         .row
           .col-md-8.col-12
             p Funciona de manera similar al diario con la particularidad de que el investigador lo tendrá a mano en todo momento. Debido a esto es probable que no tenga una estructura tan ordenada, pero aportará información mucho más detallada dado que el investigador hará las anotaciones en el momento que identifique una situación que así lo amerite.
@@ -248,7 +248,7 @@
           .col-md-4.col-12
             img(src='@/assets/curso/temas/tema3/tema3-24.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Mapas")
-        h4 Mapas
+        //- h4 Mapas
         .row
           .col-md-8.col-12
             p Son una herramienta que aporta gran utilidad para ofrecer un mejor contexto a la investigación. En esta categoría también se incluyen los planos y cualquier gráfico que otorgue una noción respecto a la ubicación o límites de la zona objeto estudio.
@@ -256,14 +256,14 @@
           .col-md-4.col-12
             img(src='@/assets/curso/temas/tema3/tema3-25.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Dispositivos mecánicos")
-        h4 Dispositivos mecánicos
+        //- h4 Dispositivos mecánicos
         .row
           .col-md-8.col-12
             p Son las herramientas electrónicas como las cámaras o grabadoras que otorgan información objetiva y exacta. Es importante resaltar que requieren de mucha precaución porque según el tipo de estudio, puede verse comprometida la privacidad de las personas si no se cuenta con su autorización correspondiente.
           .col-md-4.col-12
             img(src='@/assets/curso/temas/tema3/tema3-26.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Cuadros de trabajo")
-        h4 Cuadros de trabajo
+        //- h4 Cuadros de trabajo
         .row
           .col-md-8.col-12
             p Consiste en la tabulación de los datos obtenidos por las otras herramientas. Pueden diseñarse tablas en las que las filas representen los participantes y las columnas las respuestas dadas por cada uno de ellos.
@@ -757,7 +757,7 @@
           p.mb-0.texto-negro La información que se estudiará proviene de diversos autores y obras. La población puede ser tan significativa que requiere la toma de muestras para cuestionar movimientos o ideologías de amplio espectro.
         .tarjeta.color-primario--borde.p-3.my-2(data-aos="fade-down")
           h4 2. Verticales
-          p.mb-0.texto-negro El elemento objeto de estudio suele ser muy concreto, por ello también reciben el nombre de análisis intensivos; El tema puede ser tan específico, que el análisis detrás puede ser mucho más extenso que el material fuente original.
+          p.mb-0.texto-negro El elemento objeto de estudio suele ser muy concreto, por ello también reciben el nombre de análisis intensivos. El tema puede ser tan específico, que el análisis detrás puede ser mucho más extenso que el material fuente original.
         .tarjeta.color-acento-botones--borde.p-3.my-2(data-aos="fade-down")
           h4 3. Transversales
           p.mb-0.texto-negro La mecánica de este análisis consiste en enfrentar posturas diferentes respecto a un mismo tema en concreto. Lo que se busca es definir si las variaciones surgen de posturas diferentes y cómo estas afectan las conclusiones alcanzadas.

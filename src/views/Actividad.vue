@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Aprende sobre registros y recolección de datos
-        p.mb-4 #[b Objetivo] Esta actividad tiene como objetivo que los aprendices ayudar a comprender y relacionar conceptos clave, relacionados con registros y recolección de datos, y cómo estos elementos se interconectan en el proceso de adquirir y gestionar información.
+        p.mb-4 #[b Objetivo:] esta actividad tiene como objetivo que los aprendices ayudar a comprender y relacionar conceptos clave, relacionados con registros y recolección de datos, y cómo estos elementos se interconectan en el proceso de adquirir y gestionar información.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

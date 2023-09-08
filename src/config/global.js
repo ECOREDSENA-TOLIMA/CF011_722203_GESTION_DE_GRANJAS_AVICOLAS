@@ -331,32 +331,33 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Paola Mercedes Orduz Gómez',
-          cargo: 'Experta Temática',
-          centro:
-            'Regional Santander - Centro de Atención al Sector Agropecuario',
+          nombre: 'Andrés Felipe Avilan Lozano',
+          cargo: 'Experto Temática',
+          centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Giovanna Andrea Escobar Ospina',
+          nombre: 'Diana Marcela Luis Vásquez',
           cargo: 'Diseñadora Instruccional',
           centro:
             'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios (CIES)',
         },
         {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable Equipo Desarrollo Curricular',
+          cargo: 'Asesor pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Darío González',
-          cargo: 'Corrector de Estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Juan Gilberto Giraldo Cortés',

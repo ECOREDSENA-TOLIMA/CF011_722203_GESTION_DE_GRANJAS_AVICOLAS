@@ -126,7 +126,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: '<em>Softwares</em> de recolección de datos',
+            titulo: '<em>Software</em> de recolección de datos',
             hash: 't_4_3',
           },
           {
@@ -222,7 +222,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=N1Jwap5uOhY',
     },
     {
-      tema: '<em>Softwares</em> de recolección de datos',
+      tema: '<em>Software</em> de recolección de datos',
       referencia:
         'Regalado, J. (2020). <em>Crea CUESTIONARIOS autoevaluables con Google FORMULARIOS</em> [Video]. YouTube.',
       tipo: 'Video',

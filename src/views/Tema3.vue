@@ -272,7 +272,7 @@
             img(src='@/assets/curso/temas/tema3/tema3-27.png', alt='')
 
     .cajon-b.color-acento-contenido.p-3.mb-5
-      p A continuación, se presenta un ejemplo en el que un concesionario quiere identificar los colores más demandados para cada uno de sus modelos de vehículos, por lo que se anotaron el modelo y el color de todos los carros que ingresaron a revisión periódica en una semana, ver tabla 2:
+      p A continuación, se presenta un ejemplo en el que un concesionario quiere identificar los colores más demandados para cada uno de sus modelos de vehículos, por lo que se anotaron el modelo y el color de todos los carros que ingresaron a revisión periódica en una semana, como se muestra en la tabla 2:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-11.col-lg-10(data-aos="fade-right")

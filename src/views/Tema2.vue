@@ -120,7 +120,7 @@
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Ciclo de vida
+      h2 2.2 Lenguaje técnico
 
     p.mb-5(data-aos="fade-down") La forma en la que se presenta la información puede variar dependiendo de sus fuentes, aplicabilidad o destinatarios. Cuando la misma se encuentra dirigida a una profesión y oficio, puede expresarse haciendo uso de un lenguaje técnico, el cual cuenta con la particularidad de ser plenamente entendido, únicamente por los conocedores en la materia tratada.
 

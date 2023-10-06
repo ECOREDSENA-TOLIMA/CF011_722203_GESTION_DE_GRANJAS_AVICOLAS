@@ -89,7 +89,7 @@
 
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.3 #[em Softwares] de recolección de datos 
+      h2 4.3 #[em Software] de recolección de datos 
 
     p.mb-4(data-aos="fade-down") Son sistemas computarizados que facilitan la recolección y almacenamiento de información según parámetros establecidos por el usuario. Surgen a raíz de las problemáticas generadas por la recolección de información en medios físicos donde es común cometer errores de transcripción o inexactitudes.
 
@@ -153,7 +153,7 @@
       .py-4.py-md-5(titulo="<em>Software</em> propietario")
         .row
           .col-12.mb-4.mb-md-0
-            p.mb-0 Estos programas tienen restricciones asociadas a su uso, distribución y modificaciones. De hecho, su principal característica es que no se puede acceder a su código fuente, debido a que se encuentra protegido por derechos de autor. Estos #[em softwares], pueden otorgar permisos a usuarios específicos, para ser utilizados o modificados, pero salvo expresa autorización, ningún otro usuario podrá acceder a ellos.
+            p.mb-0 Estos programas tienen restricciones asociadas a su uso, distribución y modificaciones. De hecho, su principal característica es que no se puede acceder a su código fuente, debido a que se encuentra protegido por derechos de autor. Estos #[em software], pueden otorgar permisos a usuarios específicos, para ser utilizados o modificados, pero salvo expresa autorización, ningún otro usuario podrá acceder a ellos.
       .py-4.py-md-5(titulo="<em>Software</em> comercial")
         .row
           .col-12.mb-4.mb-md-0

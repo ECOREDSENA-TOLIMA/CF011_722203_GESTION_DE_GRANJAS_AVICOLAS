@@ -22,7 +22,7 @@
     .row.mb-4(data-aos="fade-down")
       .col-12
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Los datos pueden clasificarse en diferentes criterios. Según la Comisión Económica para América Latina y el Caribe - CEPAL (2020), las siguientes son algunas de las formas de clasificación aceptadas, ver figura 1:
+          p.mb-0 Los datos pueden clasificarse en diferentes criterios. Según la Comisión Económica para América Latina y el Caribe - CEPAL (2020), las siguientes son algunas de las formas de clasificación aceptadas, consolidadas en la figura 1:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10(data-aos="fade-right")
